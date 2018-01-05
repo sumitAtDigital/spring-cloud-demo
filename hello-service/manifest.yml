@@ -1,0 +1,5 @@
+---
+applications:
+ - name: hello-service
+   path: build/libs/hello-service.jar
+   memory: 512M

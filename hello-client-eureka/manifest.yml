@@ -1,0 +1,7 @@
+---
+applications:
+ - name: hello-client
+   path: build/libs/hello-client-eureka.jar
+   memory: 512M
+   services:
+    - eureka

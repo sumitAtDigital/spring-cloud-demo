@@ -1,0 +1,5 @@
+---
+applications:
+ - name: hello-client
+   path: build/libs/hello-client.jar
+   memory: 512M

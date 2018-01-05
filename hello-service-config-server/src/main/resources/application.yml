@@ -1,0 +1,5 @@
+security.ignored: /
+hello.message: Hello local configuration
+spring.application.name : hello-service
+
+

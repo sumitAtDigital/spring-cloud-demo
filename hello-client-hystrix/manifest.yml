@@ -1,0 +1,8 @@
+---
+applications:
+ - name: hello-client
+   path: build/libs/hello-client-hystrix.jar
+   memory: 512M
+   services:
+    - eureka
+    - hystrix
